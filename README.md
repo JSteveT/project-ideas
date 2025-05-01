@@ -6,12 +6,6 @@ The goal is to explore, organize, and eventually develop projects for learning, 
 
 ---
 
-## Categories
-
--
-
----
-
 ## How This Repo Works
 - Each category file (`.md`) lists specific project ideas.
 - Each idea includes:
